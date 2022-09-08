@@ -1,0 +1,5 @@
+com/samco/JdbcTemplatedemo/model/Tutorial.class
+com/samco/JdbcTemplatedemo/controller/TutorialController.class
+com/samco/JdbcTemplatedemo/JdbcTemplatedemoApplication.class
+com/samco/JdbcTemplatedemo/repository/TutorialRepository.class
+com/samco/JdbcTemplatedemo/repository/JdbcTutorialRepository.class
